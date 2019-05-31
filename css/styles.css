@@ -1,19 +1,32 @@
 h1 {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Vast Shadow', cursive;
+  letter-spacing: 3px;
 }
 
 .jumbotron .shaded-area {
-  margin-top: 10px;
-  display: flow-root;
-  padding: 10px;
-  background-color: rgba(255,255,255, 0.60);
+  margin: 5px;
+  display:block;
+  padding: 0px;
+  background-color: rgba(255,255,255, 0.30);
   font-family: 'Poiret One', cursive;
   text-align: right;
   letter-spacing: 3px;
-
 }
 
 .jumbotron {
-  background-image: url(https://data.whicdn.com/images/138718278/large.png);
-  background-color: #9DD8E3;
+  background-color: #ECDB70;
+}
+
+.button-menu {
+  margin: 10px 5px;
+}
+
+.button {
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+  text-transform: lowercase;
+  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+  color: black;
 }
