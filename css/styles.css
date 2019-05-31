@@ -18,15 +18,23 @@ h1 {
 }
 
 .button-menu {
-  margin: 10px 5px;
+  margin: 2px 2px;
 }
 
 .button {
-  display: inline-block;
-  width: 24%;
+  display:inline-block;
+  width:24%;
   text-align: center;
-  text-transform: lowercase;
+  text-transform:lowercase;
   font-size: 20px;
   font-family: 'Poiret One', cursive;
   color: black;
+}
+
+.well {
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+  font-family: 'Poiret One' , cursive;
+  letter-spacing: 5px;
 }
