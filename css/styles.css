@@ -1,16 +1,15 @@
 h1 {
   font-family: 'Vast Shadow', cursive;
   letter-spacing: 3px;
+  text-align: center;
 }
 
 .jumbotron .shaded-area {
-  margin: 5px;
-  display:block;
-  padding: 0px;
-  background-color: rgba(255,255,255, 0.30);
   font-family: 'Poiret One', cursive;
-  text-align: right;
+  text-align: center;
+  text-transform: lowercase;
   letter-spacing: 3px;
+  color: white;
 }
 
 .jumbotron {
@@ -37,4 +36,23 @@ h1 {
   text-align: center;
   font-family: 'Poiret One' , cursive;
   letter-spacing: 5px;
+  background-image: url(https://register.extension.iastate.edu/images/display/background-overlay-final.png);
+  background-color: #AC99CE;
+}
+
+.well h2 {
+  font-weight: bolder;
+  color: white;
+}
+
+.panel-body {
+  font-family: 'Poiret One' , cursive;
+  font-weight: bolder;
+  font-size: 17px;
+  letter-spacing: 2px;
+}
+
+.panel-body h3 {
+  text-decoration: underline;
+  text-decoration-style:wavy;
 }
