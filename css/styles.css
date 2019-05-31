@@ -95,8 +95,14 @@ h1 {
   margin: 10px;
 }
 
+.panel-body .aboutme-body .firstword {
+  font-size: 23px;
+}
 
-
+/* Reviews */
+.quotes {
+  font-family: 'Lato' , sans-serif;
+}
 
 /* Footer */
 .footer {
