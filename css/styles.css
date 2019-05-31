@@ -108,3 +108,13 @@ h1 {
 .footer {
   text-align: center;
 }
+
+/* projects page */
+.container .projects {
+  text-align: center;
+}
+
+/* about me page */
+.container .fun-facts h2 {
+  font-family: 'Vast Shadow' , cursive;
+}
