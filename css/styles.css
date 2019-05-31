@@ -1,3 +1,4 @@
+/* Main Page Banner */
 h1 {
   font-family: 'Vast Shadow', cursive;
   letter-spacing: 3px;
@@ -16,6 +17,8 @@ h1 {
   background-color: #ECDB70;
 }
 
+
+/* Button Menu */
 .button-menu {
   margin: 2px 2px;
 }
@@ -30,6 +33,8 @@ h1 {
   color: black;
 }
 
+
+/* Background Banner */
 .well {
   margin: 20px;
   padding: 5px;
@@ -45,14 +50,30 @@ h1 {
   color: white;
 }
 
-.panel-body {
-  font-family: 'Poiret One' , cursive;
+
+/* Background Body  */
+.panel-body .background-body {
+  font-family: 'Lato' , sans-serif;
   font-weight: bolder;
-  font-size: 17px;
+  font-size: 12px;
   letter-spacing: 2px;
 }
 
-.panel-body h3 {
+.panel-body .background-body h4 {
+  font-weight: bolder;
   text-decoration: underline;
-  text-decoration-style:wavy;
+}
+
+
+/* About Me Body */
+.panel-body .aboutme-body {
+  font-family: 'Lato' , sans-serif;
+  font-weight: bolder;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.panel-body .aboutme-body h4 {
+  font-weight: bolder;
+  text-decoration: underline;
 }
