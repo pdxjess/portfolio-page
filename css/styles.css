@@ -69,11 +69,21 @@ h1 {
 .panel-body .aboutme-body {
   font-family: 'Lato' , sans-serif;
   font-weight: bolder;
-  font-size: 12px;
+  font-size: 18px;
   letter-spacing: 2px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
 }
 
 .panel-body .aboutme-body h4 {
   font-weight: bolder;
   text-decoration: underline;
+}
+
+.panel-body .aboutme-body img {
+  width: 250px;
+  float: right;
+  padding-left: 2px;
+  margin: 10px;
 }
