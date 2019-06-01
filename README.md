@@ -30,6 +30,9 @@ _This was created with:_
 * HTML
 * bootstrap
 
+## Acknowledgements
+
+_Thank you to my teachers and partners this week_
 
 ### License
 
