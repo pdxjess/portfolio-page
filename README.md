@@ -10,7 +10,7 @@ _A site that demonstrates knowledge learned in week 1 at Epicodus._
 ## Setup/Installation Requirements
 
 * Clone this repository "https://github.com/pdxjess/portfolio-page"
-* Open the repository in a preferred text editor such as Atom.
+* Open the repository here: https://pdxjess.github.io/portfolio-page
 * Open the file and view in the web browser of preference.
 
 ## Known Bugs
