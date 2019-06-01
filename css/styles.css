@@ -92,7 +92,7 @@ h1 {
   width: 400px;
   float: left;
   padding-left: 2px;
-  margin: 10px;
+  margin-right: 50px;
 }
 
 .panel-body .aboutme-body .firstword {
@@ -114,6 +114,10 @@ h1 {
   text-align: center;
 }
 
+.container .projects img {
+  border-radius: 60px;
+}
+
 /* about me page */
 .container .fun-facts h2 {
   font-family: 'Vast Shadow' , cursive;
@@ -125,6 +129,9 @@ h1 {
 
 .container .fun-facts img {
   width: 300px;
+  border-radius: 60px;
+  padding: 10px;
+  margin: 20px;
 }
 
 /* contact page  */
