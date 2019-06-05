@@ -1,4 +1,4 @@
-# _Independent Project Week11_
+# _Independent Project Week 1_
 
 #### _Intro, Week 1, *05.31.2019*_
 
